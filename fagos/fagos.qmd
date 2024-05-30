@@ -24,7 +24,7 @@ author:
         postal-code: 97357
     attributes:
       corresponding: true
-        - name: David Sanchez
+  - name: David Sanchez
     email: 420049609@enesmerida.unam.mx
     affiliations: 
       - id: UNAM
@@ -34,12 +34,13 @@ author:
         city: Merida
         state: Yucatán
         postal-code: 97357
- 
 abstract: |
   This is the abstract. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum augue turpis, dictum non malesuada a, volutpat eget velit. Nam placerat turpis purus, eu tristique ex tincidunt et. Mauris sed augue eget turpis ultrices tincidunt. Sed et mi in leo porta egestas. Aliquam non laoreet velit. Nunc quis ex vitae eros aliquet auctor nec ac libero. Duis laoreet sapien eu mi luctus, in bibendum leo molestie. Sed hendrerit diam diam, ac dapibus nisl volutpat vitae. Aliquam bibendum varius libero, eu efficitur justo rutrum at. Sed at tempus elit.
 keywords: 
-  - keyword1
-  - keyword2
+  - Carrera Armamentística
+  - Depredación
+  - Coevolución
+  - Bacteriófagos
 date: last-modified
 bibliography: bibliography.bib
 format:
@@ -49,8 +50,9 @@ format:
       name: Journal Name
       formatting: preprint
       model: 3p
-      cite-style: super
+      cite-style: authoryear
 ---
+
 
 Please make sure that your manuscript follows the guidelines in the 
 Guide for Authors of the relevant journal. It is not necessary to 
